@@ -1,2 +1,3 @@
-# JavaProjects
-Hands on java projects
+# Java Projects
+
+Little java projects for improving my programming experience
